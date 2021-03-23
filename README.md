@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 [<img target="_blank" src="https://cdn3.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_web-64.png"/>](https://dincerunal.github.io/)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dincerunal&layout=compact)](https://github.com/dincerunal/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dincerunal&layout=compact)](https://github.com/dincerunal/)
 
 
 
