@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dincerunal&layout=compact)](https://github.com/dincerunal/)
 
+g
 
-
-<!--
+<!-- **Visitors Count**  ![VisitorCount](https://profile-counter.glitch.me/{dincerunal}/count.svg)
 - 👯 I’m looking to collaborate on Flutter
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
