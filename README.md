@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Havelsan as a Computer Engineer
 
-- 🌱 I’m currently learning Cpp, Cyber Security, Flutter
+- 🌱 I’m currently learning Cpp, Distributed Systems, Blockchain, Docker, Cyber Security, Flutter
 
 
 [<img src="https://cdn3.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_gmail-64.png"/>](mailto:dincer.unal0652@gmail.com)
